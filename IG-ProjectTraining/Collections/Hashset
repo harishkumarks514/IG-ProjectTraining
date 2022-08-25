@@ -1,0 +1,4 @@
+Difference between HASHSET and HASHMAP
+---------------------------------------
+
+HashSet contains only values whereas HashMap contains an entry(key and value).
